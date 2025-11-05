@@ -1,12 +1,12 @@
-# 📍 Documentação Técnica do Sistema de Geolocalização
+# Documentação Técnica do Sistema de Geolocalização
 
-## 📝 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este documento descreve um **aplicativo móvel desenvolvido em React Native** que opera como uma solução abrangente para a gestão e processamento de dados de localização. O sistema integra diversas bibliotecas e serviços para oferecer capacidades completas de geolocalização. As funções primárias incluem a **aquisição da posição geográfica atual** do usuário, a **conversão de coordenadas** brutas em endereços textuais compreensíveis (geocodificação reversa) e a **persistência** dessas informações em uma base de dados.
 
 ---
 
-## 💻 Componentes e Dependências
+## Componentes e Dependências
 
 A arquitetura do aplicativo baseia-se na integração de componentes nativos do React Native com bibliotecas externas especializadas.
 
@@ -29,7 +29,7 @@ A arquitetura do aplicativo baseia-se na integração de componentes nativos do 
 
 ---
 
-## 🗃️ Interfaces TypeScript (Estrutura de Tipos)
+## Interfaces TypeScript (Estrutura de Tipos)
 
 O sistema de tipos em TypeScript garante a integridade e previsibilidade dos dados manipulados pelo aplicativo.
 
@@ -76,7 +76,7 @@ Esta é uma função crítica que traduz coordenadas numéricas (latitude/longit
 
 ---
 
-## ➡️ Fluxo de Operação do Aplicativo
+## Fluxo de Operação do Aplicativo
 
 O ciclo de vida de uma interação de localização segue a seguinte sequência lógica:
 
