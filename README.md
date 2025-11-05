@@ -60,7 +60,7 @@ Define a estrutura esperada na resposta de uma API externa de geocodificação r
 
 ---
 
-## ⚙️ Funcionalidades Chave
+## Funcionalidades Chave
 
 ### **Aquisição de Localização em Tempo Real**
 
